@@ -3,3 +3,17 @@
 html {
   scroll-behavior: smooth;
 }
+
+@theme {
+  --color-bunker-50: #f0f9fb;
+--color-bunker-100: #d9eff4;
+--color-bunker-200: #b8e0e9;
+--color-bunker-300: #87c8d9;
+--color-bunker-400: #4fa8c1;
+--color-bunker-500: #338ca7;
+--color-bunker-600: #2d728d;
+--color-bunker-700: #2b5e73;
+--color-bunker-800: #2a4e60;
+--color-bunker-900: #274252;
+--color-bunker-950: #0c181f;
+}
