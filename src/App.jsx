@@ -7,10 +7,10 @@ function App() {
   return (
     <>
      <Navbar />
-     <section id="home" className="h-screen bg-blue-100">Home Section</section>
-      <section id="about" className="h-screen bg-green-100">About Section</section>
-      <section id="services" className="h-screen bg-yellow-100">Services Section</section>
-      <section id="contact" className="h-screen bg-pink-100">Contact Section</section>
+     <section id="home"><Home /></section>
+      <section id="about" className="h-screen bg-bunker-900">About Section</section>
+      <section id="services" className="h-screen bg-bunker-600">Services Section</section>
+      <section id="contact" className="h-screen bg-bunker-400">Contact Section</section>
     </>
   )
 }
