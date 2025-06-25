@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <Navbar />
+     {/* <Navbar /> */}
      <section id="home"><Home /></section>
       <section id="about" className="h-screen bg-bunker-900">About Section</section>
       <section id="services" className="h-screen bg-bunker-600">Services Section</section>

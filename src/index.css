@@ -16,4 +16,21 @@ html {
 --color-bunker-800: #2a4e60;
 --color-bunker-900: #274252;
 --color-bunker-950: #0c181f;
+
+--color-dark-purple: #0d0221ff;
+--color-federal-blue: #0f084bff;
+--color-marian-blue: #26408bff;
+--color-light-blue: #a6cfd5ff;
+--color-mint-green: #c2e7d9ff;
+}
+
+@layer base {
+  @font-face{
+    font-family: JBmono-reg;
+    src: url(./fonts/jetbrains_mono/JetBrainsMono-Regular.woff2) format("woff2")
+  }
+  @font-face {
+    font-family: SFpro-reg;
+    src: url(./fonts/sfpro/SF-Pro-Display-Regular.woff) format("woff");
+  }
 }
