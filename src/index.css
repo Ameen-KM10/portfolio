@@ -4,6 +4,8 @@ html {
   scroll-behavior: smooth;
 }
 
+@theme {  --font-display: "Oswald", sans-serif; }
+
 @theme {
   --color-bunker-50: #f0f9fb;
 --color-bunker-100: #d9eff4;
